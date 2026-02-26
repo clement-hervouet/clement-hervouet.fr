@@ -1,2 +1,2 @@
 # clement-hervouet.fr
-Page d'acceuil de clement-hervouet.fr
+Page d'accueil de clement-hervouet.fr
